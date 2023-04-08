@@ -10,3 +10,6 @@ This code takes a list of usernames and a URL template as input, and checks each
 
 # usage
 ``python3 enumtool.py``
+
+# displaying
+![alt text](https://github.com/rebugsecurity/User-enumeration-tool/blob/a11c45d95ece97d9c9a3ec2c0b42fabe0f17bfc0/user-enum-tool-working.png)
